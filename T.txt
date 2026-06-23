@@ -1,2 +1,4 @@
 DAY 1
 creation of repo
+
+Learning GitHub Day 1
